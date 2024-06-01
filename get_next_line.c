@@ -6,12 +6,12 @@
 /*   By: ael-abdi <ael-abdi@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/12/14 12:26:25 by ael-abdi          #+#    #+#             */
-/*   Updated: 2023/12/28 18:18:06 by ael-abdi         ###   ########.fr       */
+/*   Updated: 2024/06/01 10:55:31 by ael-abdi         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "get_next_line.h"
-
+46456456456456456456
 static char	*ft_read(char *str_line, int fd)
 {
 	ssize_t	a;
